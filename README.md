@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alisterf-ciandt
+- 👋 Hi, I’m Álister Lopes Ferreira
 - 👀 I’m interested in Biking, Woodworking, DIY, Smarthome
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me alisterf@ciandt.com
